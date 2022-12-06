@@ -31,9 +31,9 @@ void kylskapMedWhileVillkor(){
         if (temp <= 2 && temp>-273)
         cout << "För kallt!" << endl; 
         if (temp >= 8) 
-        cout << "För varmt!" << endl;
+        cout << "För varmt" << endl;
     }
-    cout << "Lämnar loopen nu!" << endl; 
+    cout << "Lämnar loopen nu ..." << endl; 
  }
 void ingangTill_funkltion(){
     kylskapMedWhileTrue();
